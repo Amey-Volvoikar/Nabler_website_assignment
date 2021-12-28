@@ -1,0 +1,28 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "title": "exercitationem1",
+            "description": "exercitationem",
+            "status": "exercitationem"
+        },
+        {
+            "id": 1,
+            "title": "exercitationem2",
+            "description": "exercitationem",
+            "status": "exercitationem"
+        },
+        {
+            "id": 1,
+            "title": "exercitationem3",
+            "description": "exercitationem",
+            "status": "exercitationem"
+        },
+        {
+            "id": 1,
+            "title": "exercitationem4",
+            "description": "exercitationem",
+            "status": "exercitationem"
+        }
+    ]
+}
