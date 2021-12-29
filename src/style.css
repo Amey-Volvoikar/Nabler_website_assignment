@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sub-title{
+    @apply text-2xl md:text-4xl text-blue-800 font-bold text-center mb-12;
+}
+.navbar__container{
+    @apply bg-blue-800 mb-16;
+}
+.navbar__logo{
+    @apply text-5xl text-center text-orange-400 bg-blue-700 py-8;
+}
+.navbar__logo-title{
+    @apply text-white font-bold ml-4;
+}
+.nav__items{
+    @apply w-full flex justify-around text-white py-4;
+}
+.nav__links{
+    @apply flex text-xl font-bold;
+}
+.nav__links > a{
+    @apply transition ease-in-out hover:-translate-y-1 hover:scale-125 hover:text-orange-400 duration-500;
+}
+.footer__container {
+    @apply bg-gray-800 text-white pb-12;
+}
+.footer__container > .footer__items{
+    @apply container mx-auto grid grid-cols-1 md:grid-cols-3 gap-4 px-6;
+}
+.footer__items{
+    @apply pt-12;
+}
+.footer__info{
+    @apply flex gap-4 px-6;
+}
+.footer__info > ul{
+    @apply flex gap-4;
+}
+.social__cta{
+    @apply bg-gray-600 h-24;
+}
+.social-cta__title{
+    @apply text-3xl text-white font-bold;
+}
+.social__links{
+    @apply container mx-auto h-full flex gap-2 md:gap-6 justify-center items-center;
+}
+.social__urls{
+    @apply text-3xl md:text-5xl transition ease-in-out hover:-translate-y-1 hover:scale-125 hover:text-orange-400 duration-500;
+}
+.products__container{
+    @apply container mx-auto grid grid-cols-1 md:grid-cols-4 gap-x-12 gap-y-24 mb-24;
+}
+.product__container{
+    @apply flex flex-col items-center gap-4;
+}
+.product__img{
+    @apply text-9xl bg-gray-200 text-white p-12 hover:drop-shadow-xl;
+}
+.product__details{
+    @apply font-bold text-2xl;
+}
+.product__btn, .checkout__btn{
+    @apply bg-green-400 hover:bg-green-700 text-white font-bold py-2 px-4 rounded;
+}
+.carts__container{
+    @apply flex flex-col items-center gap-4 mb-24;
+}
+.cart__details{
+    @apply flex gap-2 text-xl;
+}
+.cart__details > .cart__title{
+    @apply font-bold;
+}
+.thank-you{
+    @apply container h-52 px-6;
+}
+.thank-you > p{
+    @apply text-lg text-2xl text-blue-700 font-bold text-center;
+}
+.brand{
+    @apply text-orange-400;
+}

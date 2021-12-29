@@ -1,0 +1,116 @@
+{
+    "new":[
+        {
+            "id": 1,
+            "title" : "Sticker Sheet",
+            "img" : "sticky-note",
+            "price" : 99
+        },
+        {
+            "id": 1,
+            "title" : "Backpack",
+            "img" : "suitcase",
+            "price" : 5999
+        },
+        {
+            "id": 1,
+            "title" : "Bottle",
+            "img" : "wine-bottle",
+            "price" : 399
+        },
+        {
+            "id": 1,
+            "title" : "Tumbler",
+            "img" : "glass-whiskey",
+            "price" : 299
+        },
+        {
+            "id": 1,
+            "title" : "Beanie",
+            "img" : "concierge-bell",
+            "price" : 420
+        },
+        {
+            "id": 1,
+            "title" : "Pen",
+            "img" : "pen",
+            "price" : 10
+        },
+        {
+            "id": 1,
+            "title" : "Socks",
+            "img" : "socks",
+            "price" : 200
+        },
+        {
+            "id": 1,
+            "title" : "Zipper Pull",
+            "img" : "file-archive",
+            "price" : 100
+        }
+    ],
+    "apparel":[
+        {
+            "id": 1,
+            "title" : "Beanie",
+            "img" : "concierge-bell",
+            "price" : 399
+        },
+        {
+            "id": 1,
+            "title" : "Sock",
+            "img" : "socks",
+            "price" : 200
+        },
+        {
+            "id": 1,
+            "title" : "Tee",
+            "img" : "tshirt",
+            "price" : 699
+        },
+        {
+            "id": 1,
+            "title" : "Hat Cowboy",
+            "img" : "hat-cowboy-side",
+            "price" : 699
+        }
+    ],
+    "lifestyle":[
+        {
+            "id": 1,
+            "title" : "Pen",
+            "img" : "pen",
+            "price" : 10
+        },
+        {
+            "id": 1,
+            "title" : "Tumbler",
+            "img" : "glass-whiskey",
+            "price" : 299
+        },
+        {
+            "id": 1,
+            "title" : "Bottle",
+            "img" : "wine-bottle",
+            "price" : 399
+        },
+        {
+            "id": 1,
+            "title" : "Sticker Sheet",
+            "img" : "sticky-note",
+            "price" : 99
+        },
+        {
+            "id": 1,
+            "title" : "Sun glasses",
+            "img" : "glasses",
+            "price" : 2999
+        },
+        {
+            "id": 1,
+            "title" : "Journal",
+            "img" : "book",
+            "price" : 99
+        }
+    ]
+}
